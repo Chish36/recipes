@@ -4,4 +4,3 @@
 * lime (0.50)
 * salt (1.00)
 ##Instructions
-Ill considered change
